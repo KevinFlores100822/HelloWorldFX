@@ -1,4 +1,4 @@
-package com.example.helloworldfx
+
 package com.example.helloworldfx;
 
 import javafx.application.Application;
